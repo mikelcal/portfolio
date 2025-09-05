@@ -51,7 +51,11 @@ What ties it all together is a focus on **clarity, consistency, and impact**—w
 - Flask + D3.js dashboard with interactive choropleth maps and wind vector animations.  
 - Custom API endpoints for state averages and correlation analysis.  
 - Deployed on DigitalOcean for live access.  
-- **Live Demo:** https://co-dashboard.mikelcal.co/ • **Code:** [Github](https://github.com/mikelcal/co_dashboard)  
+- **Live Demo:** https://co-dashboard.mikelcal.co/ • **Code:** [Github](https://github.com/mikelcal/co_dashboard)
+
+**Tableau Public Scatter Plot**
+- Visualizing international soccer athlete data, segmented by player height and nationality
+- **Tableau Public:** [Player Data](https://public.tableau.com/views/Unit2-MikelCalderon/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 ## Generative AI | Workshops & Prototypes
