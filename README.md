@@ -73,6 +73,10 @@ What ties it all together is a focus on **clarity, consistency, and impact**—w
 - Visualizing international soccer athlete data, segmented by player height and nationality
 - **Tableau Public:** [Player Data](https://public.tableau.com/views/Unit2-MikelCalderon/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+**Model Performance Comparison**  
+Visualization of ROC curves across multiple classifiers, comparing their ability to distinguish repeat vs. non-repeat customers.  
+![AUC Comparison](dataviz_samples/auc-comparison.png)
+
 **Additional Visualizations**
 
 - [Data Visualization Samples](dataviz_samples/)
