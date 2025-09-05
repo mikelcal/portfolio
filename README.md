@@ -87,10 +87,11 @@ Visualization of ROC curves across multiple classifiers, comparing their ability
 
 **RAG with Redis (2025 Workshop)**
 
-- Built a Retrieval-Augmented Generation (RAG) pipeline using Redis as a vector database.
-- Indexed local documents, embedded text, and generated context-aware responses with citations.
-- Experience covered ingestion, embedding, retrieval, and evaluation of outputs.
-- Reinforces ability to connect editorial standards to GenAI outputs through retrieval pipelines.
+- Completed a three-part Redis Vector Library (VL) workshop covering:  
+  - **Vector Search with RedisVL:** storing/querying vector embeddings for GenAI apps.  
+  - **RAG from Scratch:** built a chatbot application using retrieval-augmented generation.  
+  - **Production-ready RAG:** added semantic caching and LLM session memory for scalable performance.  
+- Reinforced ability to connect **editorial standards** to GenAI outputs by exploring how retrieval, caching, and memory affect model clarity and consistency.
 
 ---
 
